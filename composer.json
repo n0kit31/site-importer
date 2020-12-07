@@ -1,0 +1,13 @@
+{
+	"name":"n0kit31/site-importer",
+	"description":"site importer tool",
+	"authors":[
+		{
+			"name":"Marcin",
+			"email":"marcin@it-krzyzanowski.pl"
+		}
+	],
+	"autoload":{
+		"files":["src/sitemapImporter.php"]
+	}
+}
